@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+
+# build output
+client/dist/
+dist/
+
+# database
+prisma/dev.db
+prisma/dev.db-journal
+
+# env & logs
+.env
+*.log
+
+# os/editor
+.DS_Store
